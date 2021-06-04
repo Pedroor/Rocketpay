@@ -1,19 +1,66 @@
-# Rocketpay
+<h1 align="center">Rocketpay</h1>
 
-To start your Phoenix server:
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-saiba-mais">Saiba mais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+ <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+</p>
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+![Código e terminal com testes](https://github.com/rocketseat-education/nlw-04-elixir/blob/main/.github/preview.png)
 
-## Learn more
+## ✨ Tecnologias
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Elixir](https://github.com/elixir-lang/elixir)
+- [Phoenix](https://github.com/phoenixframework/phoenix)
+- [Ecto](https://github.com/elixir-ecto/ecto)
+- [ExUnit](https://github.com/elixir-lang/elixir/blob/master/lib/ex_unit/lib/ex_unit.ex)
+
+## 💻 Projeto
+
+O Rocketpay é uma aplicação que simula uma API de pagamentos entre usuários, sendo possível realizar depósitos, saques e transferências.
+
+## 🚀 Como executar
+
+Para iniciar o seu servidor Phoenix:
+
+- Instale as dependências com `mix deps.get`
+- Crie o banco de dados e rode as migrations rodando `mix ecto.setup`
+- Inicie o servidor Phoenix com `mix phx.server`
+
+Agora você pode acessar [`localhost:4000`](http://localhost:4000) do seu navegador.
+
+Pronto para colocar em produção? Dá uma olhada nos [guias de deploy](https://hexdocs.pm/phoenix/deployment.html).
+
+## ⚡️ Saiba mais
+
+- Website oficial: [https://www.phoenixframework.org](https://www.phoenixframework.org/)
+- Guias: [https://hexdocs.pm/phoenix/overview.html](https://hexdocs.pm/phoenix/overview.html)
+- Documentação: [https://hexdocs.pm/phoenix](https://hexdocs.pm/phoenix)
+- Fórum: [https://elixirforum.com/c/phoenix-forum](https://elixirforum.com/c/phoenix-forum)
+- GitHub: [https://github.com/phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
+- Anotações do Projeto: [https://www.notion.so/danielvini/Elixir-b05681c310d64ba9b686e542b2ecf934](https://www.notion.so/danielvini/Elixir-b05681c310d64ba9b686e542b2ecf934)
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+### 👨‍💻Autor <a id="autor"> </a>
+
+<a href="https://github.com/Pedroor" style="text-decoration: none;">
+<img style="border-radius: 70%;" src="https://avatars.githubusercontent.com/u/54337976?v=4"width="100px;"  alt="Seu nome"/>
+
+<br />
+<span> Feito com ❤️ por Pedro Arthur 👋 Entre em contato! </span> 
+</a>
